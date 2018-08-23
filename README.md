@@ -342,7 +342,7 @@ int sqlite3_extension_init(
 ```
 
 
-# See also
+## See also
 * http://www.sqlite.org/
 * https://code.google.com/p/sqlite3pp/ 
 * https://github.com/iwongu/sqlite3pp/wiki/Using-variadic-templates-with-different-parameter-types
